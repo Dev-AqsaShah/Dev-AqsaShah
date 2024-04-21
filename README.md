@@ -1,8 +1,7 @@
-
+![logo](https://github.com/Dev-AqsaShah/Dev-AqsaShah/blob/main/fasi.jpg)
 <h1 align="center">Hi 👋, I'm AqsaShah</h1>
 <h3 align="center">A passionate Cloud Applied Computing Enginer</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com.pk/url?sa=i&url=https%3A%2F%2Farieljakubowski.medium.com%2Fi-passed-every-coding-challenge-at-flatiron-school-my-first-try-heres-how-23302a1bfe46&psig=AOvVaw14DofOiddQkgE60QaxOkCF&ust=1713782408497000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjjxKOP04UDFQAAAAAdAAAAABAP">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-aqsashah&label=Profile%20views&color=0e75b6&style=flat" alt="dev-aqsashah" /> </p>
 
